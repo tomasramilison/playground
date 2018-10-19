@@ -1,2 +1,2 @@
 # playground
-statistical models and stuff
+computer vision, statistical models and other stuff
